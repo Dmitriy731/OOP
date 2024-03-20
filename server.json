@@ -1,0 +1,65 @@
+[
+    {
+        "id": 0,
+        "name": "The ninth wave",
+        "author": "Ivan Aivazovsky",
+        "locationId": "Russian Museum",
+        "imgUrl": "https://test-front.framework.team//images/The_ninth_wave.jpeg"
+    },
+    {
+        "id": 1,
+        "name": "L`Enlévement d`Europe",
+        "author": "François Boucher",
+        "locationId": "Louvre",
+        "imgUrl": "https://test-front.framework.team//images/L_Enlevement_d_Europe.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Annunciation",
+        "author": "Leonardo da Vinci",
+        "locationId": "Uffizi Gallery",
+        "imgUrl": "https://test-front.framework.team//images/Annunciation.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Evening on Karl Johan Street",
+        "author": "Edvard Munch",
+        "locationId": "The Collection Of Rasmus Meyer, Bergen",
+        "imgUrl": "https://test-front.framework.team//images/Evening_on_Karl_Johan_Street.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Syndics of the Drapers' Guild",
+        "author": "Rembrandt Harmenszoon van Rijn",
+        "locationId": "Rijksmuseum Amsterdam",
+        "imgUrl": "https://test-front.framework.team//images/Syndics_of_the_Drapers_Guild.jpg"
+    },
+    {
+        "id": 5,
+        "name": "The Toilet Of Venus",
+        "author": "François Boucher",
+        "locationId": "Nationalmuseum",
+        "imgUrl": "https://test-front.framework.team//images/The_Toilet_Of_Venus.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "The",
+        "author": "Edvard Munch",
+        "locationId": "Bergen Kunstmuseum",
+        "imgUrl": "https://test-front.framework.team//images/Summer_night_Inger_on_the_beach.jpg"
+    },
+    {
+        "id": 7,
+        "name": "The sun",
+        "author": "Edvard Munch",
+        "locationId": "University Of Oslo, Oslo",
+        "imgUrl": "https://test-front.framework.team//images/The_sun.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Field with poppies",
+        "author": "Vincent van Gogh",
+        "locationId": "Kunstmuseum Den Haag",
+        "imgUrl": "https://test-front.framework.team//images/Field_with_poppies.jpeg"
+    }
+  ]
